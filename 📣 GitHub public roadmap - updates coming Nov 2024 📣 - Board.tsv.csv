@@ -1,0 +1,89 @@
+Title	URL	Labels	Status
+Updated billing overview page 	https://github.com/github/roadmap/issues/217	all, billing, ga	Future
+Create custom automation flows	https://github.com/github/roadmap/issues/281	all, cloud, preview, projects	Future
+Issue level custom metadata 	https://github.com/github/roadmap/issues/277	all, cloud, issues, preview	Future
+Cross repository milestones and labels	https://github.com/github/roadmap/issues/276	all, cloud, preview, repositories	Future
+Ability to add a project to a project 	https://github.com/github/roadmap/issues/274	all, cloud, preview, projects	Future
+Azure AD (AAD) Service Principal Support for GHEC EMUs (Preview)	https://github.com/github/roadmap/issues/360	cloud, github enterprise, identity, preview	Future
+Command Palette	https://github.com/github/roadmap/issues/355	all, cloud, ga, other, server	Future
+Commenting on unchanged lines in a pull request	https://github.com/github/roadmap/issues/347	all, cloud, exploring, ga, pull requests, server	Future
+Precise code navigation for JavaScript and TypeScript	https://github.com/github/roadmap/issues/371	all, cloud, ga, search	Future
+Secret scanning: Extend coverage to Actions logs	https://github.com/github/roadmap/issues/449	cloud, github advanced security, preview, secret scanning, server	Future
+Precise code navigation for Java	https://github.com/github/roadmap/issues/474	all, cloud, ga, search	Future
+Dependabot alerts shows transitive dependency paths	https://github.com/github/roadmap/issues/494	all, cloud, dependabot, ga	Future
+Reply to PR-level comments	https://github.com/github/roadmap/issues/552	all, ga, pull requests, server	Future
+Codespaces: Pull Request Validation for prebuild-enabled repositories 	https://github.com/github/roadmap/issues/537	cloud, codespaces, ga, github enterprise, github team	Future
+Codespaces: Private networking with Azure VNETs (Preview)	https://github.com/github/roadmap/issues/534	cloud, codespaces, github enterprise, preview	Future
+Open ID Connect (OIDC) for GHEC Audit Log Streaming to Azure Blob Storage	https://github.com/github/roadmap/issues/581	audit logs, github enterprise, preview	Future
+Packages: maven - granular permissions and easy organization sharing	https://github.com/github/roadmap/issues/578	cloud, ga, github enterprise, packages	Future
+Packages: Granular permissions and easy organization sharing for enterprise customers	https://github.com/github/roadmap/issues/560	ga, github enterprise, packages, server	Future
+Packages support for fine-grained PATs	https://github.com/github/roadmap/issues/558	all, ga, packages, personal access tokens (PATs)	Future
+GitHub Actions:  Immutable actions publishing	https://github.com/github/roadmap/issues/592	actions, all, preview	Q1 2025 – Jan-Mar
+Fine-grained and classic PAT expiry policies for organizations and enterprises	https://github.com/github/roadmap/issues/599	github enterprise, identity, personal access tokens (PATs), preview	Future
+Fine-grained PAT support for open source and personally-owned repos	https://github.com/github/roadmap/issues/600	all, identity, personal access tokens (PATs), preview	Future
+Outside collaborator support for organization-owned repositories for fine-grained PATs	https://github.com/github/roadmap/issues/601	all, identity, personal access tokens (PATs), preview	Future
+GitHub Security Advisory private forks support Actions	https://github.com/github/roadmap/issues/627	all, cloud, preview	Future
+GitHub Actions secrets improvements for Reusable workflows	https://github.com/github/roadmap/issues/636	actions, all, preview	Future
+GitHub Actions: Secure Shell Debugging (Preview)	https://github.com/github/roadmap/issues/637	actions, github enterprise, preview	Future
+GHES  Cluster High Availability	https://github.com/github/roadmap/issues/756	github enterprise, in design	Future
+Enterprise access for GitHub apps	https://github.com/github/roadmap/issues/753	all, enterprise administration, ga, identity	Future
+Projects: Updated Projects header	https://github.com/github/roadmap/issues/761	all, cloud, ga, projects	Future
+GitHub Actions Starter workflow improvements	https://github.com/github/roadmap/issues/772	actions, all, preview	Future
+GitHub Actions configuration variables - GA	https://github.com/github/roadmap/issues/773	actions, all, ga	Future
+Automatic security check information on each Actions listing	https://github.com/github/roadmap/issues/774	actions, all, exploring, preview	Future
+Code security transaction report in PDF	https://github.com/github/roadmap/issues/781	cloud, code scanning, dependabot, github advanced security, preview, secret scanning, security overview, server	Q3 2024 – Jul-Sep
+Export security coverage and security risk data in security overview to CSV	https://github.com/github/roadmap/issues/782	cloud, code scanning, dependabot, ga, GHES 3.15, github advanced security, secret scanning, security overview, server, shipped	
+Fine-grained PAT support for inner-source repositories	https://github.com/github/roadmap/issues/790	github enterprise, identity, personal access tokens (PATs), preview	Future
+Security manager improvements and custom organization security roles (Preview)	https://github.com/github/roadmap/issues/791	cloud, code scanning, dependabot, github advanced security, preview, secret scanning, security overview, server	Q2 2024 – Apr-Jun
+Enterprise custom roles and permissions (Preview)	https://github.com/github/roadmap/issues/793	enterprise administration, github enterprise, identity, preview	Future
+One-click enablement for Maven transitive dependency detection	https://github.com/github/roadmap/issues/796	all, cloud, ga, GHES 3.15, shipped	Q3 2024 – Jul-Sep
+New rate limit for the audit log API endpoints	https://github.com/github/roadmap/issues/809	audit logs, cloud, ga, github enterprise, shipped	
+Projects: Activity History	https://github.com/github/roadmap/issues/816	all, cloud, ga, projects	Future
+Actions: Outbound network control for GitHub-hosted runners	https://github.com/github/roadmap/issues/821	actions, cloud, github enterprise, github team, preview, runners	Future
+More control over required status checks for pull requests using merge queue	https://github.com/github/roadmap/issues/824	exploring, github enterprise, pull requests	Future
+Actions: Custom VM Images for GitHub-hosted runners (Preview)	https://github.com/github/roadmap/issues/826	actions, github enterprise, github team, preview, runners	Q3 2024 – Jul-Sep
+Pull Request Dashboard	https://github.com/github/roadmap/issues/828	all, exploring, pull requests	Future
+Issues: Issue Types	https://github.com/github/roadmap/issues/837	all, cloud, issues, preview	Q3 2024 – Jul-Sep
+Code scanning: security campaigns and autofixes for historical CodeQL alerts (outside the PR experience)	https://github.com/github/roadmap/issues/848	cloud, code scanning, codeql, github advanced security, preview	Q3 2024 – Jul-Sep
+Sunset Subversion support in GitHub Enterprise Server	https://github.com/github/roadmap/issues/915	all, ga, GHES 3.13, Platform, server	Q2 2024 – Apr-Jun
+Code scanning: AI-powered autofixes for CodeQL alerts integrated into VS Code	https://github.com/github/roadmap/issues/916	code scanning, codeql, ga, github advanced security	Q3 2024 – Jul-Sep
+Expanding access to historical log data via audit log exports (Preview)	https://github.com/github/roadmap/issues/921	audit logs, cloud, enterprise administration, github enterprise, preview	Q2 2024 – Apr-Jun
+Creating audit log events for code searches targeting Enterprise's private assets (Preview)	https://github.com/github/roadmap/issues/922	audit logs, cloud, enterprise administration, github enterprise, preview	Q2 2024 – Apr-Jun
+Streaming Enterprise audit logs to multiple endpoints (Preview)	https://github.com/github/roadmap/issues/924	audit logs, cloud, enterprise administration, github enterprise, preview	Q2 2024 – Apr-Jun
+Actions: macOS 14 (Sonoma) is generally available and the `latest` macOS runner image	https://github.com/github/roadmap/issues/926	actions, ga, runners	Q2 2024 – Apr-Jun
+Hierarchy: Sub-issues	https://github.com/github/roadmap/issues/927	all, issues, preview	Q3 2024 – Jul-Sep
+Issues: Nested filtering with `AND` `OR` operators	https://github.com/github/roadmap/issues/928	all, cloud, GHES 3.16, issues, preview, shipped	Q3 2024 – Jul-Sep
+GitHub Actions: Artifacts v4 available in GitHub Enterprise Server	https://github.com/github/roadmap/issues/930	actions, ga, github enterprise, server	Q4 2024 – Oct-Dec
+Multiple email support for EMU profiles	https://github.com/github/roadmap/issues/931	enterprise administration, github enterprise, identity, preview	Future
+Assign permissions across all repos in your org	https://github.com/github/roadmap/issues/935	enterprise administration, github enterprise, preview	Q2 2024 – Apr-Jun
+Generated SDKs for Go and .NET are released as GA	https://github.com/github/roadmap/issues/938	all, cloud, ga	Q2 2024 – Apr-Jun
+GitHub Release Attestations	https://github.com/github/roadmap/issues/943	github enterprise, preview, repositories	Q3 2024 – Jul-Sep
+Private Cargo Registry Support for Dependabot Updates	https://github.com/github/roadmap/issues/945	all, dependabot, ga	Q2 2024 – Apr-Jun
+Dependabot on Actions Forced Migration	https://github.com/github/roadmap/issues/946	all, dependabot, ga	Future
+GitHub Advanced Security ships organization 'security configurations'	https://github.com/github/roadmap/issues/948	GHES 3.15, github advanced security, preview, shipped	Q1 2024 – Jan-Mar
+Issues and Projects: Dependencies	https://github.com/github/roadmap/issues/956	all, issues, preview	Q3 2024 – Jul-Sep
+Actions: Ubuntu 24 on GitHub-hosted runners (Preview)	https://github.com/github/roadmap/issues/958	actions, github enterprise, github team, preview, runners	Q2 2024 – Apr-Jun
+Actions: Custom VM Images for GitHub-hosted runners generally available	https://github.com/github/roadmap/issues/959	actions, ga, github enterprise, github team, runners	Future
+Enterprise Apps and installation automation (Preview)	https://github.com/github/roadmap/issues/963	all, cloud, enterprise administration, GitHub Apps, github enterprise, preview	Q1 2025 – Jan-Mar
+Secret scanning detects secrets in GitHub wikis	https://github.com/github/roadmap/issues/964	ga, GHES 3.15, github advanced security, secret scanning	Q2 2024 – Apr-Jun
+Secret scanning detects secrets in GitHub discussions and pull request content	https://github.com/github/roadmap/issues/965	ga, GHES 3.15, github advanced security, secret scanning, shipped	Q2 2024 – Apr-Jun
+Projects: Unlimited items	https://github.com/github/roadmap/issues/966	all, cloud, ga, projects	Q3 2024 – Jul-Sep
+Secret scanning push protection for gists	https://github.com/github/roadmap/issues/969	all, cloud, ga, secret scanning	Q2 2024 – Apr-Jun
+GitHub Actions: Arm based hosted runners for OSS	https://github.com/github/roadmap/issues/970	actions, all, preview, runners	Future
+Enterprise security manager (Preview)	https://github.com/github/roadmap/issues/971	cloud, code scanning, dependabot, GHES 3.15, github advanced security, preview, secret scanning, security overview, server	Q3 2024 – Jul-Sep
+Organization-level overview dashboard organized by key domain	https://github.com/github/roadmap/issues/972	cloud, code scanning, dependabot, ga, GHES 3.15, github advanced security, secret scanning, security overview, server	Q3 2024 – Jul-Sep
+Enterprise-level CodeQL pull request alerts report	https://github.com/github/roadmap/issues/974	cloud, code scanning, ga, GHES 3.15, github advanced security, secret scanning, security overview, server	Q2 2024 – Apr-Jun
+Organization-level CodeQL pull request alerts report	https://github.com/github/roadmap/issues/975	cloud, code scanning, ga, GHES 3.15, github advanced security, secret scanning, security overview, server	Q3 2024 – Jul-Sep
+Pre-defined organization roles	https://github.com/github/roadmap/issues/977	all, ga, GHES 3.15, shipped	Q2 2024 – Apr-Jun
+Actions: Ubuntu 24 on GitHub-hosted runners (GA)	https://github.com/github/roadmap/issues/980	actions, all, ga, runners	Q3 2024 – Jul-Sep
+Secret scanning delegated bypass for push protection - GA	https://github.com/github/roadmap/issues/981	cloud, ga, github advanced security, secret scanning	Q3 2024 – Jul-Sep
+Actions: Private networking for GitHub-hosted macOS runners	https://github.com/github/roadmap/issues/982	actions, all, ga, runners	Future
+Actions: macOS runners are now available in runner groups	https://github.com/github/roadmap/issues/983	actions, all, ga, runners	Future
+Actions: M2 Pro Powered macOS runners (GA)	https://github.com/github/roadmap/issues/984	actions, all, ga, runners	Future
+Actions: M2 Pro powered macOS runners (Preview)	https://github.com/github/roadmap/issues/985	actions, all, preview, runners	Q4 2024 – Oct-Dec
+Actions: macOS 15 is now available for GitHub-hosted runners (GA)	https://github.com/github/roadmap/issues/986	actions, all, ga, runners	Q4 2024 – Oct-Dec
+Actions: macOS 15 is now available for GitHub-hosted runners (Preview)	https://github.com/github/roadmap/issues/987	actions, all, preview, runners	Q3 2024 – Jul-Sep
+Actions: Managing Environments at Scale	https://github.com/github/roadmap/issues/988	actions, deploys, github enterprise, preview	Future
+Export organization-level code security alerts and push protection data to to CSV	https://github.com/github/roadmap/issues/989	cloud, code scanning, dependabot, GHES 3.15, github advanced security, preview, secret scanning, security overview, server, shipped	Q3 2024 – Jul-Sep
+Increase GitHub Enterprise Importer's (GEI) repository size limit to 40GB (Preview)	https://github.com/github/roadmap/issues/993	github enterprise, migration tools, preview	Q3 2024 – Jul-Sep
+Assign organization roles to users across multiple organizations at once	https://github.com/github/roadmap/issues/994	enterprise administration, github enterprise, preview	Q1 2025 – Jan-Mar
